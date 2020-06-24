@@ -1,0 +1,11 @@
+Table 7: Decreasing Delegation Efficiency in the U.S.
+
+------------------------------------------
+          Average expansion	     -28.66
+            Entry intensity	      -9.95
+       Creative destruction	     -24.89
+          Average firm size	     -13.57
+   Share of high type firms	      -0.29
+ Empl. share of small firms	      19.05
+           Share of manager	     -57.01
+------------------------------------------

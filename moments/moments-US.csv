@@ -1,0 +1,20 @@
+        entRate,0.0735
+   meanEmp21_25,2.547
+  shareEmp21_25,0.097
+      exitRatio,1.594
+paymentShareMan,0.5
+       shareMan,0.125
+   varLogomegaM,0.49
+ entProfitShare,0.21
+ shareFirmCount00_05,1
+ shareFirmCount06_10,0.70213395
+ shareFirmCount11_15,0.56044108
+ shareFirmCount16_20,0.43643263
+ shareFirmCount21_25,0.40706754
+   shareFirmCount26_,1.3082247
+shareEmp1_4FirmWithin00_05,1
+shareEmp1_4FirmWithin06_10,0.72469964
+shareEmp1_4FirmWithin11_15,0.644108171
+shareEmp1_4FirmWithin16_20,0.586199591
+shareEmp1_4FirmWithin21_25,0.508699096
+  shareEmp1_4FirmWithin26_,0.397606598

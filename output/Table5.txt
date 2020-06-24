@@ -1,0 +1,11 @@
+Table 5:  Creative Destruction and Selection in India and the U.S.
+
+
+                                                  	      India	         US
+------------------------------------------------------------------------------------
+                      Rate of creative destruction	     0.0541	     0.1236	
+               Share of high-type firms upon entry	     0.1106	     0.6020	
+                 Long-run share of high-type firms	     0.3437	     0.9458	
+      Long-run employment share of high-type firms	     0.4696	     0.9827	
+ Long-run share of high-type firms among age 21-25	     0.3011	     1.0000	
+------------------------------------------------------------------------------------
