@@ -162,6 +162,7 @@ robustness; % runs all the robustness
 %---------------------------------------------------------------------
 disp('----------------------------------------------')
 disp('TABLES')
+addpath('reporting')
 table3;
 table4;
 table5;

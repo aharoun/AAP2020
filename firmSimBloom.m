@@ -1,6 +1,6 @@
 function [nProd,exit,treatD] = firmSimBloom(eq,eqTreat,seed,nYear,nTreatFirm,nNonTreatFirm,nCut,dtSim)
 
-rng(seed,'simdTwister');        % way faster than default generator
+rng(seed,'simdTwister');       
 
 
 Tmax  = nYear/dtSim;
@@ -17,7 +17,7 @@ treatD   = false(nFirm,1);
 treatD(1:nTreatFirm) = true;
 
 
-nProdD     = nCut;                % they all start at nCut
+nProdD     = nCut;               
 
 nProd(:,1)  = nProdD; 
 

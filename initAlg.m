@@ -15,7 +15,7 @@ function initAlg(cnt)
   alg.crit1         = 1e-6;
   alg.crit2         = 1e-9;
   alg.final         = 0;
-  alg.saveInit      = 1;
+  alg.saveInit      = 0;
 
   alg.mopts = optimset('Display','off','MaxFunEvals',300,'MaxIter',300,'TolX',1.0e-12,'TolFun',1.0e-12);
   
